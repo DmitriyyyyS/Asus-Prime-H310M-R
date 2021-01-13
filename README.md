@@ -1,5 +1,5 @@
 # Asus-Prime-H310M-R
-MacOS 10.13.6-.10.15.4
+MacOS 10.13.6-.10.15.6
 Asus Prime H310M-R Hackintosh
 Intel Core i5-9400F
 Intel Kaby Point H310C, Intel Coffee Lake-S
