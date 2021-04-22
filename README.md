@@ -1,5 +1,5 @@
 # Asus-Prime-H310M-R
-MacOS 10.13.6-.10.15.6 and MacOS BigSur 11.2.1
+MacOS 10.13.6-.10.15.6 and MacOS BigSur 11.2.4
 
 Asus Prime H310M-R Hackintosh
 
